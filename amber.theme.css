@@ -1,0 +1,38 @@
+/**
+ * @name Amber
+ * @description A simple theme with a horizontal server bar.
+ * @author June
+ * @version 1.0.1
+ * @authorId 495795242709286923
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=GG+sans:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+
+:root {
+  --accentcolor: 70,30,45;
+  --accentcolor2: 255,115,250;
+  --linkcolor: 233,30,99;
+  --mentioncolor: 80,50,75;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: gg sans;
+  --backgroundaccent: 55,50,50;
+  --backgroundprimary: 33,29,29;
+  --backgroundsecondary: 25,20,20;
+  --backgroundsecondaryalt: 25,15,15;
+  --backgroundtertiary: 15,10,10;
+  --backgroundfloating: 15,5,5;
+  --settingsicons: 1;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 15px;
+}
+
+/* Any custom CSS below here */
+
+
